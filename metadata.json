@@ -1,0 +1,6 @@
+{
+  "name": "Smart Warehouse Brontolano",
+  "description": "Warehouse stock monitoring and digital catalog for consumers with direct WhatsApp integration and Google Sheets database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
